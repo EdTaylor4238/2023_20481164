@@ -1,0 +1,7 @@
+#Contents of .gitignore
+*.com
+*.class
+*.exe
+*.o
+*.so
+build/
