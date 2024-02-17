@@ -1,0 +1,4 @@
+git = function
+show log = show files changed and committed
+init = set up directory
+reset = undo last save
